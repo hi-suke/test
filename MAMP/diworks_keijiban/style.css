@@ -1,0 +1,150 @@
+body{font-family:"Hiragino Kaku Gothic"}
+
+header{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+header ul{
+    float: left;
+    line-height: 30px;
+}
+
+header ul li{
+    font-family: sans-serif;
+    font-size: 25px;
+    float: left;
+    color: white;
+    list-style: none;
+    padding-right: 80px;
+}
+
+/*main{
+    clear: both;
+}*/
+
+.main_container{
+    margin: 0 auto;
+    margin-top: 2px;
+    width: 100%;
+}
+
+
+
+.left{
+    float: left;
+    width: 67%;
+    
+}
+
+
+.left h1{
+    border-bottom: 3px solid black;
+    border-left: 5px solid black;
+}
+
+.nyuryoku h3{
+    
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 4px red solid;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+    font-size: 20px;
+}
+
+form{
+    margin: 10px auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 1200px;
+    
+    
+}
+
+/*from div{
+    padding: 15px;
+}*/
+
+
+
+.text{
+    border: 1px solid #dfdfdf;
+    padding: 4px 10px;
+    color: #999;
+    background: #fff;
+}
+
+.comments{
+    border: 1px solid #dfdfdf;
+    padding: 4px 10px;
+    color: #999;
+    background: #fff;
+}
+
+
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+.kiji{
+    margin: 10px auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 1200px;
+}
+
+.kiji h3{
+    border-bottom: 2px solid lightgray;
+    padding: 10px 10px;
+    margin: 10px;
+}
+
+.comments1{
+    padding: 10px 10px;
+    margin: 10px;
+}
+
+
+.right{
+    float: left;
+    width: 31%;
+    padding-bottom: 50.7%;
+}
+
+.right h3{
+    border-bottom: 5px solid gray;
+}
+
+
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    
+}
+
+
+
+
